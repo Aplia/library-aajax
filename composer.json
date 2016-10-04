@@ -1,0 +1,15 @@
+{
+    "name": "aplia/aajax",
+    "description": "Simple ajax eZ Publish 4",
+    "keywords": ["ezextension", "eztemplate"],
+    "homepage": "https://bitbucket.org/aplia/library-aajax",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Aplia dev-team",
+            "email": "info@aplia.no",
+            "homepage": "https://www.aplia.no"
+        }
+    ]
+}
